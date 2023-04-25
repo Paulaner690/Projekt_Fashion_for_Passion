@@ -166,11 +166,22 @@ main{
     aspect-ratio: 3/4;
 }
 
+.little-arrow{
+    position: absolute;
+    top: 82rem;
+    left: 7rem;
+}
+
 .left-text {
-    padding-top: 750px;
-    display: flex;
-    gap: 20px;
-    width: 150px;
+    position: absolute;
+    left: 7rem;
+    top: 85rem;
+}
+
+.star-icon{
+    position: absolute;
+    top: 84rem;
+    left: 0;
 }
 
 /* ----------------middle-part---------------------- */
@@ -198,14 +209,14 @@ main{
 
 .lines{
     position: absolute;
-    top: 750px;
-    left: 330px;
+    top: 75rem;
+    left: 34rem;
 }
 
 .middle .model{
     width: 20rem;
     position: absolute;
-    top: 780px;
+    top: 78rem;
 }
 
 /* ----------------right part--------------------- */
